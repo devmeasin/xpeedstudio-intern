@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### `http://localhost/api/`
 
 
-### Api  Cros and Request Problem Before Check  Please Add Few Line Requests
+### Api  Cros and Request Problem Before Check  Please Add Few Line Requests || Api File PHP
 
 ```
 header("Access-Control-Allow-Origin: *");
